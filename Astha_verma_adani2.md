@@ -1,0 +1,1 @@
+#Both the part of questions are given in ASTHA_VERMA_A7605219068.cpp
